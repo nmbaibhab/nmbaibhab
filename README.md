@@ -9,9 +9,9 @@
 - 🔭 I’m AI Enthusiastic and FullStack Developer with focus on solving real world problems.
 - 🌱 I believe in Passion of Innovation.
 - 👯 I’m ready to collaborate on amazing problem solving startup idea.
-- 💬 Ask me about anything, I am happy to help and contribute to the community growth;
+- 💬 Ask me about anything, I am happy to help and contribute to the community growth.
 - 📫 How to reach me: nmbaibhab@yahoo.com
-- ⚡ Fun fact: I love to reading sci-fi contents and write tech-blogs [Read here](https://medium.com/@nmbaibhab)
+- ⚡ Fun fact: I love to read sci-fi contents and write tech-blogs [Read here](https://medium.com/@nmbaibhab)
 
 **Languages and Tools:** 
 <br/>
