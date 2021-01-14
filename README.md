@@ -1,16 +1,14 @@
-### Hi there 👋
+<p align="center"> <img src="image/hello.gif" alt="hello" /> </p>
+<h1 align="center">Hi 👋, I'm N M Baibhab</h1>
 
-<!--
-**nmbaibhab/nmbaibhab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
+<h3 align="center">Co-Founder and Projects Lead @LearnForCause | OpenSource Developer @GirlscriptFoundation | Core member and Web Developer at NISP@GIFT (National Innovation Startup Policy at Gandhi Institute For Technology.)</h3>
 
-Here are some ideas to get you started:
+# About me :mortar_board:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m AI Enthusiastic and FullStack Developer with focus on solving real world problems.
+- 🌱 I believe in Passion of Innovation.
+- 👯 I’m ready to collaborate on amazing problem solving startup idea.
+- 💬 Ask me about anything, I am happy to help and contribute to the community growth;
+- 📫 How to reach me: nmbaibhab@yahoo.com
+- ⚡ Fun fact: I love to reading sci-fi contents.
