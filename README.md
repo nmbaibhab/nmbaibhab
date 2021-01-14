@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 <p align="center"> <img src="image/hello.gif" alt="hello" /> </p>
-=======
 <p align="center"> <img src="image/hello.gif" alt="hello" width="650px" height="450px" /> </p>
->>>>>>> 2b41e4eb0bf3c1c65a56465c9acb66ad3fb71384
 <h1 align="center">Hi 👋, I'm N M Baibhab</h1>
 
 <br/>
@@ -18,6 +15,7 @@
 - ⚡ Fun fact: I love to reading sci-fi contents and write tech-blogs [Read here](https://medium.com/@nmbaibhab)
 
 **Languages and Tools:** 
+<br/>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
