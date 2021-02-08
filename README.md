@@ -10,7 +10,7 @@
 - 🌱 I believe in Passion of Innovation.
 - 👯 I’m ready to collaborate on amazing problem solving startup idea.
 - 💬 Ask me about anything, I am happy to help and contribute to the community growth.
-- 📫 How to reach me: nmbaibhab@yahoo.com
+- 📫 How to reach me: nmbaibhab@outlook.com
 - ⚡ Fun fact: I love to read sci-fi contents and write tech-blogs [Read here](https://medium.com/@nmbaibhab)
 
 **Languages and Tools:** 
