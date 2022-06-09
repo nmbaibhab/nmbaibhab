@@ -3,7 +3,7 @@
 
 <br/>
 <h4 align="center">https://n-m-baibhab.web.app/</h4>
-<h3 align="center">Intern @Papertown | OpenSource Developer @GirlscriptFoundation | Core member and Web Developer at NISP@GIFT (National Innovation Startup Policy at Gandhi Institute For Technology.)</h3>
+<h3 align="center">Full Stack Developer | AI Enthusiast </h3>
 
 # About me :mortar_board:
 
