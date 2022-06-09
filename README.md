@@ -1,4 +1,4 @@
-<p align="center"> <img src="image/hello.gif" alt="hello" width="650px" height="350px" /> </p>
+<p align="center"> <img src="image/hello.gif" alt="hello" width="550px" height="300px" /> </p>
 <h1 align="center">Hi 👋, I'm N M Baibhab</h1>
 
 <br/>
