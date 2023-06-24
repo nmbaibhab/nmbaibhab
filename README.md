@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm N M Baibhab</h1>
 
 <br/>
-<h4 align="center">https://n-m-baibhab.web.app/</h4>
+<h4 align="center">https://www.linkedin.com/in/nmbaibhab/</h4>
 <h3 align="center">Full Stack Developer | AI Enthusiast </h3>
 
 # About me :mortar_board:
